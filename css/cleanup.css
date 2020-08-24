@@ -29,7 +29,7 @@ div#wall div.parent #tag-5.slick {
   display: none;
 }
 
-html body div#wall div.parent div div#tag-6 {
+html body div#wall div.parent div:last-child div#tag-6 {
   background: url(../images/tag-6.png) no-repeat;
   z-index: 2;
   display: none;
