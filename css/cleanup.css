@@ -17,7 +17,7 @@ html body div#wall div#tag-3.slick {
   display: none;
 }
 
-div#wall #tag-4 {
+div#wall div# {
   background: url(../images/tag-4.png) no-repeat;
   z-index: 4;
   display: none;
